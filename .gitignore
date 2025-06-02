@@ -4,3 +4,12 @@
 # React Router
 /.react-router/
 /build/
+
+*.env.local
+*.log
+*.pid
+*.swp
+*.tmp
+*.tsbuildinfo
+*.vscode
+*.yml
